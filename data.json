@@ -24,9 +24,9 @@
       ],
       "steps": [
         "Cut potatoes into sticks",
-        "Toss with oil and seasonings",
+        "Toss with oil and seasoning",
         "Air fry at 400°F for 18-20 minutes",
-        "Shake halfway through"
+        "Shake halfway through cooking"
       ],
       "garnish": "Fresh parsley",
       "premium": false
@@ -49,7 +49,7 @@
         "Season the wings",
         "Air fry at 375°F for 20 minutes",
         "Brush with BBQ sauce",
-        "Cook 5 more minutes"
+        "Cook 5 additional minutes"
       ],
       "garnish": "Sesame seeds",
       "premium": false
@@ -66,14 +66,14 @@
       "ingredients": [
         "2 salmon fillets",
         "1 lemon",
+        "1 tbsp olive oil",
         "Salt",
         "Black pepper",
-        "Olive oil",
         "Minced garlic"
       ],
       "steps": [
         "Season salmon with oil and spices",
-        "Add lemon slices on top",
+        "Top with lemon slices",
         "Air fry at 360°F for 10-12 minutes"
       ],
       "garnish": "Fresh dill",
@@ -114,7 +114,7 @@
       "ingredients": [
         "1 lb chicken breast",
         "1 egg",
-        "Breadcrumbs",
+        "1 cup breadcrumbs",
         "Salt",
         "Paprika"
       ],
@@ -137,7 +137,7 @@
       "servings": 3,
       "ingredients": [
         "1 head broccoli",
-        "Olive oil",
+        "1 tbsp olive oil",
         "Salt",
         "Garlic powder"
       ],
@@ -160,14 +160,14 @@
       "servings": 4,
       "ingredients": [
         "4 bell peppers",
-        "Ground beef",
-        "Cooked rice",
-        "Tomato sauce",
-        "Shredded cheese"
+        "1 lb ground beef",
+        "1 cup cooked rice",
+        "1 cup tomato sauce",
+        "1/2 cup shredded cheese"
       ],
       "steps": [
         "Mix beef, rice and sauce",
-        "Stuff peppers",
+        "Stuff peppers with mixture",
         "Air fry at 360°F for 15 minutes",
         "Top with cheese and cook 5 more minutes"
       ],
@@ -185,15 +185,16 @@
       "servings": 6,
       "ingredients": [
         "Biscuit dough",
-        "Powdered sugar",
-        "Milk"
+        "1 cup powdered sugar",
+        "2 tbsp milk"
       ],
       "steps": [
-        "Shape into donuts",
+        "Shape dough into donuts",
         "Air fry at 350°F for 8 minutes",
-        "Glaze with sugar icing"
+        "Mix sugar and milk to glaze",
+        "Dip donuts into glaze"
       ],
-      "garnish": "Sprinkles",
+      "garnish": "Colorful sprinkles",
       "premium": true
     },
     {
@@ -207,11 +208,11 @@
       "servings": 2,
       "ingredients": [
         "2 apples",
-        "Cinnamon"
+        "1 tsp cinnamon"
       ],
       "steps": [
         "Slice apples thinly",
-        "Sprinkle cinnamon",
+        "Sprinkle with cinnamon",
         "Air fry at 320°F for 15 minutes"
       ],
       "garnish": "Extra cinnamon",
@@ -227,17 +228,130 @@
       "calories": "High",
       "servings": 4,
       "ingredients": [
-        "Mozzarella sticks",
-        "Breadcrumbs",
-        "Egg",
+        "8 mozzarella sticks",
+        "1 egg",
+        "1 cup breadcrumbs",
         "Italian seasoning"
       ],
       "steps": [
-        "Coat cheese in egg and breadcrumbs",
+        "Dip cheese in egg and coat with breadcrumbs",
         "Freeze for 30 minutes",
         "Air fry at 370°F for 8 minutes"
       ],
       "garnish": "Marinara sauce",
+      "premium": false
+    },
+    {
+      "id": "11",
+      "title": "Chicken Parmesan",
+      "category": "savory",
+      "image": "https://images.unsplash.com/photo-1604908177522-040f21b9f5c1?w=800",
+      "prepTime": 22,
+      "difficulty": "Medium",
+      "calories": "High",
+      "servings": 4,
+      "ingredients": [
+        "4 chicken breasts",
+        "1 cup breadcrumbs",
+        "1 cup marinara sauce",
+        "1 cup mozzarella cheese"
+      ],
+      "steps": [
+        "Coat chicken with breadcrumbs",
+        "Air fry at 375°F for 15 minutes",
+        "Add marinara and cheese",
+        "Cook 5 more minutes"
+      ],
+      "garnish": "Fresh basil",
+      "premium": true
+    },
+    {
+      "id": "12",
+      "title": "Quesadilla",
+      "category": "savory",
+      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=800",
+      "prepTime": 10,
+      "difficulty": "Easy",
+      "calories": "Medium",
+      "servings": 2,
+      "ingredients": [
+        "2 tortillas",
+        "1 cup shredded cheese",
+        "Sliced ham"
+      ],
+      "steps": [
+        "Fill tortillas with cheese and ham",
+        "Fold and air fry at 350°F for 5-7 minutes"
+      ],
+      "garnish": "Guacamole",
+      "premium": false
+    },
+    {
+      "id": "13",
+      "title": "Air Fryer Brownie",
+      "category": "dessert",
+      "image": "https://images.unsplash.com/photo-1606312619070-d48b4c652a52?w=800",
+      "prepTime": 18,
+      "difficulty": "Medium",
+      "calories": "High",
+      "servings": 6,
+      "ingredients": [
+        "Brownie mix",
+        "2 eggs",
+        "1/2 cup oil"
+      ],
+      "steps": [
+        "Prepare brownie batter",
+        "Pour into air fryer safe pan",
+        "Air fry at 340°F for 15-18 minutes"
+      ],
+      "garnish": "Powdered sugar",
+      "premium": true
+    },
+    {
+      "id": "14",
+      "title": "Air Fryer Churros",
+      "category": "dessert",
+      "image": "https://images.unsplash.com/photo-1617196034183-421b4917c1c9?w=800",
+      "prepTime": 15,
+      "difficulty": "Medium",
+      "calories": "High",
+      "servings": 4,
+      "ingredients": [
+        "Churro dough",
+        "1/2 cup sugar",
+        "1 tsp cinnamon"
+      ],
+      "steps": [
+        "Pipe churro shapes",
+        "Air fry at 375°F for 10 minutes",
+        "Coat in cinnamon sugar"
+      ],
+      "garnish": "Melted chocolate",
+      "premium": true
+    },
+    {
+      "id": "15",
+      "title": "Garlic Shrimp",
+      "category": "healthy",
+      "image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?w=800",
+      "prepTime": 12,
+      "difficulty": "Easy",
+      "calories": "Low",
+      "servings": 3,
+      "ingredients": [
+        "1 lb shrimp",
+        "1 tbsp olive oil",
+        "Minced garlic",
+        "Salt",
+        "Lemon juice"
+      ],
+      "steps": [
+        "Toss shrimp with oil and garlic",
+        "Air fry at 380°F for 8 minutes",
+        "Drizzle with lemon juice"
+      ],
+      "garnish": "Fresh parsley",
       "premium": false
     }
   ]
