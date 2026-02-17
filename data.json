@@ -1,0 +1,244 @@
+{
+  "categories": [
+    { "id": "all", "name": "All", "icon": "🍽️" },
+    { "id": "savory", "name": "Savory", "icon": "🍟" },
+    { "id": "healthy", "name": "Healthy", "icon": "🥦" },
+    { "id": "dessert", "name": "Dessert", "icon": "🍩" }
+  ],
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Crispy French Fries",
+      "category": "savory",
+      "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=800",
+      "prepTime": 20,
+      "difficulty": "Easy",
+      "calories": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "3 large potatoes",
+        "1 tbsp olive oil",
+        "Salt to taste",
+        "Black pepper",
+        "Paprika"
+      ],
+      "steps": [
+        "Cut potatoes into sticks",
+        "Toss with oil and seasonings",
+        "Air fry at 400°F for 18-20 minutes",
+        "Shake halfway through"
+      ],
+      "garnish": "Fresh parsley",
+      "premium": false
+    },
+    {
+      "id": "2",
+      "title": "BBQ Chicken Wings",
+      "category": "savory",
+      "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=800",
+      "prepTime": 25,
+      "difficulty": "Medium",
+      "calories": "High",
+      "servings": 4,
+      "ingredients": [
+        "2 lbs chicken wings",
+        "Salt and pepper",
+        "BBQ sauce"
+      ],
+      "steps": [
+        "Season the wings",
+        "Air fry at 375°F for 20 minutes",
+        "Brush with BBQ sauce",
+        "Cook 5 more minutes"
+      ],
+      "garnish": "Sesame seeds",
+      "premium": false
+    },
+    {
+      "id": "3",
+      "title": "Lemon Garlic Salmon",
+      "category": "healthy",
+      "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800",
+      "prepTime": 15,
+      "difficulty": "Easy",
+      "calories": "Medium",
+      "servings": 2,
+      "ingredients": [
+        "2 salmon fillets",
+        "1 lemon",
+        "Salt",
+        "Black pepper",
+        "Olive oil",
+        "Minced garlic"
+      ],
+      "steps": [
+        "Season salmon with oil and spices",
+        "Add lemon slices on top",
+        "Air fry at 360°F for 10-12 minutes"
+      ],
+      "garnish": "Fresh dill",
+      "premium": false
+    },
+    {
+      "id": "4",
+      "title": "Sweet Potato Fries",
+      "category": "healthy",
+      "image": "https://images.unsplash.com/photo-1590080876289-1e8edc1c5b91?w=800",
+      "prepTime": 20,
+      "difficulty": "Easy",
+      "calories": "Medium",
+      "servings": 3,
+      "ingredients": [
+        "2 sweet potatoes",
+        "1 tbsp olive oil",
+        "Salt",
+        "Garlic powder"
+      ],
+      "steps": [
+        "Cut into fries",
+        "Toss with oil and seasoning",
+        "Air fry at 400°F for 18 minutes"
+      ],
+      "garnish": "Parsley",
+      "premium": false
+    },
+    {
+      "id": "5",
+      "title": "Air Fryer Chicken Nuggets",
+      "category": "savory",
+      "image": "https://images.unsplash.com/photo-1604908554027-4c1f60f7d31e?w=800",
+      "prepTime": 20,
+      "difficulty": "Easy",
+      "calories": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "1 lb chicken breast",
+        "1 egg",
+        "Breadcrumbs",
+        "Salt",
+        "Paprika"
+      ],
+      "steps": [
+        "Cut chicken into cubes",
+        "Dip in egg and coat with breadcrumbs",
+        "Air fry at 375°F for 12-15 minutes"
+      ],
+      "garnish": "Honey mustard sauce",
+      "premium": false
+    },
+    {
+      "id": "6",
+      "title": "Crispy Broccoli",
+      "category": "healthy",
+      "image": "https://images.unsplash.com/photo-1584270354949-1e4c9f1f6f3e?w=800",
+      "prepTime": 12,
+      "difficulty": "Easy",
+      "calories": "Low",
+      "servings": 3,
+      "ingredients": [
+        "1 head broccoli",
+        "Olive oil",
+        "Salt",
+        "Garlic powder"
+      ],
+      "steps": [
+        "Cut into florets",
+        "Toss with oil and seasoning",
+        "Air fry at 350°F for 8-10 minutes"
+      ],
+      "garnish": "Parmesan cheese",
+      "premium": false
+    },
+    {
+      "id": "7",
+      "title": "Stuffed Bell Peppers",
+      "category": "healthy",
+      "image": "https://images.unsplash.com/photo-1605478580704-3d3d0b8f58bd?w=800",
+      "prepTime": 25,
+      "difficulty": "Medium",
+      "calories": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "4 bell peppers",
+        "Ground beef",
+        "Cooked rice",
+        "Tomato sauce",
+        "Shredded cheese"
+      ],
+      "steps": [
+        "Mix beef, rice and sauce",
+        "Stuff peppers",
+        "Air fry at 360°F for 15 minutes",
+        "Top with cheese and cook 5 more minutes"
+      ],
+      "garnish": "Fresh parsley",
+      "premium": true
+    },
+    {
+      "id": "8",
+      "title": "Air Fryer Donuts",
+      "category": "dessert",
+      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800",
+      "prepTime": 15,
+      "difficulty": "Medium",
+      "calories": "High",
+      "servings": 6,
+      "ingredients": [
+        "Biscuit dough",
+        "Powdered sugar",
+        "Milk"
+      ],
+      "steps": [
+        "Shape into donuts",
+        "Air fry at 350°F for 8 minutes",
+        "Glaze with sugar icing"
+      ],
+      "garnish": "Sprinkles",
+      "premium": true
+    },
+    {
+      "id": "9",
+      "title": "Apple Chips",
+      "category": "healthy",
+      "image": "https://images.unsplash.com/photo-1572441710534-680c44c3a87c?w=800",
+      "prepTime": 20,
+      "difficulty": "Easy",
+      "calories": "Low",
+      "servings": 2,
+      "ingredients": [
+        "2 apples",
+        "Cinnamon"
+      ],
+      "steps": [
+        "Slice apples thinly",
+        "Sprinkle cinnamon",
+        "Air fry at 320°F for 15 minutes"
+      ],
+      "garnish": "Extra cinnamon",
+      "premium": false
+    },
+    {
+      "id": "10",
+      "title": "Mozzarella Sticks",
+      "category": "savory",
+      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=800",
+      "prepTime": 15,
+      "difficulty": "Medium",
+      "calories": "High",
+      "servings": 4,
+      "ingredients": [
+        "Mozzarella sticks",
+        "Breadcrumbs",
+        "Egg",
+        "Italian seasoning"
+      ],
+      "steps": [
+        "Coat cheese in egg and breadcrumbs",
+        "Freeze for 30 minutes",
+        "Air fry at 370°F for 8 minutes"
+      ],
+      "garnish": "Marinara sauce",
+      "premium": false
+    }
+  ]
+}
