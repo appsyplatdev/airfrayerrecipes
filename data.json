@@ -773,7 +773,7 @@
     "Air fry at 350°F for 8 minutes"
   ],
   "garnish": "Maple syrup",
-  "premium": false
+  "premium": true
 },
 {
   "id": "35",
@@ -796,4 +796,344 @@
   ],
   "garnish": "Powdered sugar",
   "premium": true
-} 
+},
+{
+      "id": "36",
+      "title": "Air Fryer Chicken Fajitas",
+      "category": "savory",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/36.png",
+      "prepTime": 20,
+      "difficulty": "Easy",
+      "calories": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "2 chicken breasts",
+        "1 bell pepper",
+        "1 onion",
+        "Fajita seasoning",
+        "Olive oil"
+      ],
+      "steps": [
+        "Slice chicken and vegetables",
+        "Toss with oil and seasoning",
+        "Air fry at 380°F for 12-15 minutes"
+      ],
+      "garnish": "Lime wedges",
+      "premium": false
+    },
+    {
+      "id": "37",
+      "title": "Crispy Fish Tacos",
+      "category": "savory",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/37.png",
+      "prepTime": 18,
+      "difficulty": "Medium",
+      "calories": "Medium",
+      "servings": 3,
+      "ingredients": [
+        "White fish fillets",
+        "Breadcrumbs",
+        "Tortillas",
+        "Cabbage",
+        "Lime"
+      ],
+      "steps": [
+        "Coat fish with breadcrumbs",
+        "Air fry at 375°F for 10 minutes",
+        "Assemble tacos with toppings"
+      ],
+      "garnish": "Cilantro",
+      "premium": true
+    },
+    {
+      "id": "38",
+      "title": "Air Fryer Stuffed Chicken",
+      "category": "savory",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/38.png",
+      "prepTime": 25,
+      "difficulty": "Medium",
+      "calories": "High",
+      "servings": 2,
+      "ingredients": [
+        "2 chicken breasts",
+        "Spinach",
+        "Cream cheese",
+        "Garlic"
+      ],
+      "steps": [
+        "Stuff chicken with filling",
+        "Secure with toothpicks",
+        "Air fry at 375°F for 18 minutes"
+      ],
+      "garnish": "Parsley",
+      "premium": true
+    },
+    {
+      "id": "39",
+      "title": "Air Fryer Corn on the Cob",
+      "category": "healthy",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/39.png",
+      "prepTime": 12,
+      "difficulty": "Easy",
+      "calories": "Low",
+      "servings": 4,
+      "ingredients": [
+        "4 corn cobs",
+        "Butter",
+        "Salt"
+      ],
+      "steps": [
+        "Coat corn with butter",
+        "Air fry at 370°F for 10 minutes"
+      ],
+      "garnish": "Parsley",
+      "premium": true
+    },
+    {
+      "id": "40",
+      "title": "Air Fryer Turkey Burgers",
+      "category": "healthy",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/40.png",
+      "prepTime": 20,
+      "difficulty": "Easy",
+      "calories": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "1 lb ground turkey",
+        "Salt",
+        "Pepper",
+        "Garlic powder"
+      ],
+      "steps": [
+        "Form patties",
+        "Air fry at 375°F for 12 minutes"
+      ],
+      "garnish": "Lettuce",
+      "premium": true
+    },
+
+    {
+      "id": "41",
+      "title": "Air Fryer Cinnamon Rolls",
+      "category": "dessert",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/41.png",
+      "prepTime": 15,
+      "difficulty": "Easy",
+      "calories": "High",
+      "servings": 6,
+      "ingredients": [
+        "Cinnamon roll dough",
+        "Icing"
+      ],
+      "steps": [
+        "Place rolls in basket",
+        "Air fry at 350°F for 8 minutes",
+        "Add icing"
+      ],
+      "garnish": "Extra icing",
+      "premium": true
+    },
+    {
+      "id": "42",
+      "title": "Air Fryer Nachos",
+      "category": "savory",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/42.png",
+      "prepTime": 10,
+      "difficulty": "Easy",
+      "calories": "High",
+      "servings": 4,
+      "ingredients": [
+        "Tortilla chips",
+        "Cheese",
+        "Jalapeños"
+      ],
+      "steps": [
+        "Layer chips and toppings",
+        "Air fry at 350°F for 5 minutes"
+      ],
+      "garnish": "Sour cream",
+      "premium": true
+    },
+    {
+      "id": "43",
+      "title": "Air Fryer Avocado Egg Rolls",
+      "category": "savory",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/43.png",
+      "prepTime": 20,
+      "difficulty": "Medium",
+      "calories": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "Avocado",
+        "Egg roll wrappers",
+        "Onion",
+        "Cilantro"
+      ],
+      "steps": [
+        "Fill wrappers",
+        "Roll tightly",
+        "Air fry at 375°F for 10 minutes"
+      ],
+      "garnish": "Sweet chili sauce",
+      "premium": true
+    },
+    {
+      "id": "44",
+      "title": "Air Fryer Chicken Drumsticks",
+      "category": "savory",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/44.png",
+      "prepTime": 20,
+      "difficulty": "Easy",
+      "calories": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "8 drumsticks",
+        "Salt",
+        "Paprika",
+        "Garlic powder"
+      ],
+      "steps": [
+        "Season drumsticks",
+        "Air fry at 380°F for 20 minutes"
+      ],
+      "garnish": "Parsley",
+      "premium": true
+    },
+    {
+      "id": "45",
+      "title": "Air Fryer Grilled Cheese",
+      "category": "savory",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/45.png",
+      "prepTime": 8,
+      "difficulty": "Easy",
+      "calories": "Medium",
+      "servings": 2,
+      "ingredients": [
+        "Bread",
+        "Cheese",
+        "Butter"
+      ],
+      "steps": [
+        "Assemble sandwich",
+        "Air fry at 370°F for 5 minutes"
+      ],
+      "garnish": "Tomato soup",
+      "premium": true
+    },
+
+    {
+      "id": "46",
+      "title": "Air Fryer Pineapple",
+      "category": "dessert",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/46.png",
+      "prepTime": 10,
+      "difficulty": "Easy",
+      "calories": "Low",
+      "servings": 3,
+      "ingredients": [
+        "Pineapple slices",
+        "Honey",
+        "Cinnamon"
+      ],
+      "steps": [
+        "Coat pineapple",
+        "Air fry at 360°F for 8 minutes"
+      ],
+      "garnish": "Mint",
+      "premium": true
+    },
+    {
+      "id": "47",
+      "title": "Air Fryer Falafel",
+      "category": "healthy",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/47.png",
+      "prepTime": 25,
+      "difficulty": "Medium",
+      "calories": "Low",
+      "servings": 4,
+      "ingredients": [
+        "Chickpeas",
+        "Garlic",
+        "Parsley",
+        "Flour"
+      ],
+      "steps": [
+        "Blend ingredients",
+        "Form balls",
+        "Air fry at 375°F for 12 minutes"
+      ],
+      "garnish": "Tahini",
+      "premium": true
+    },
+    {
+      "id": "48",
+      "title": "Air Fryer French Toast Sticks",
+      "category": "dessert",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/48.png",
+      "prepTime": 12,
+      "difficulty": "Easy",
+      "calories": "Medium",
+      "servings": 3,
+      "ingredients": [
+        "Bread",
+        "Egg",
+        "Milk",
+        "Cinnamon"
+      ],
+      "steps": [
+        "Dip bread",
+        "Air fry at 360°F for 8 minutes"
+      ],
+      "garnish": "Maple syrup",
+      "premium": true
+    },
+
+    {
+      "id": "49",
+      "title": "Air Fryer Stuffed Potatoes",
+      "category": "savory",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/49.png",
+      "prepTime": 30,
+      "difficulty": "Medium",
+      "calories": "High",
+      "servings": 4,
+      "ingredients": [
+        "Potatoes",
+        "Cheese",
+        "Bacon",
+        "Sour cream"
+      ],
+      "steps": [
+        "Bake potatoes",
+        "Stuff with filling",
+        "Air fry 5 more minutes"
+      ],
+      "garnish": "Green onions",
+      "premium": true
+    },
+
+    {
+      "id": "50",
+      "title": "Air Fryer Chocolate Lava Cake",
+      "category": "dessert",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/50.png",
+      "prepTime": 15,
+      "difficulty": "Medium",
+      "calories": "High",
+      "servings": 2,
+      "ingredients": [
+        "Chocolate",
+        "Butter",
+        "Eggs",
+        "Sugar"
+      ],
+      "steps": [
+        "Mix batter",
+        "Pour into ramekins",
+        "Air fry at 350°F for 8 minutes"
+      ],
+      "garnish": "Powdered sugar",
+      "premium": true
+    }
+  ]
+}
