@@ -1607,6 +1607,667 @@
       ],
       "garnish": "Powdered sugar",
       "premium": true
+   },
+    {
+      "id": "71",
+      "title": "Air Fryer BBQ Chicken Thighs",
+      "category": "savory",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/71.png",
+      "prepTime": 20,
+      "difficulty": "Easy",
+      "calories": "High",
+      "servings": 4,
+      "ingredients": [
+        "Chicken thighs",
+        "BBQ sauce",
+        "Salt",
+        "Pepper"
+      ],
+      "steps": [
+        "Season chicken",
+        "Air fry at 380°F for 18 minutes",
+        "Brush with BBQ sauce and cook 3 more minutes"
+      ],
+      "garnish": "Parsley",
+      "premium": false
+    },
+    {
+      "id": "72",
+      "title": "Air Fryer Spinach Omelette",
+      "category": "healthy",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/72.png",
+      "prepTime": 10,
+      "difficulty": "Easy",
+      "calories": "Low",
+      "servings": 2,
+      "ingredients": [
+        "Eggs",
+        "Spinach",
+        "Cheese",
+        "Salt"
+      ],
+      "steps": [
+        "Whisk eggs",
+        "Add spinach and cheese",
+        "Air fry at 350°F for 8 minutes"
+      ],
+      "garnish": "Herbs",
+      "premium": false
+    },
+    {
+      "id": "73",
+      "title": "Air Fryer Sausage Rolls",
+      "category": "savory",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/73.png",
+      "prepTime": 18,
+      "difficulty": "Medium",
+      "calories": "High",
+      "servings": 4,
+      "ingredients": [
+        "Sausage",
+        "Puff pastry",
+        "Egg wash"
+      ],
+      "steps": [
+        "Wrap sausage in pastry",
+        "Brush with egg",
+        "Air fry at 370°F for 12 minutes"
+      ],
+      "garnish": "Mustard",
+      "premium": true
+    },
+    {
+      "id": "74",
+      "title": "Air Fryer Egg Rolls",
+      "category": "savory",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/74.png",
+      "prepTime": 20,
+      "difficulty": "Medium",
+      "calories": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "Egg roll wrappers",
+        "Cabbage",
+        "Carrots",
+        "Soy sauce"
+      ],
+      "steps": [
+        "Fill wrappers",
+        "Roll tightly",
+        "Air fry at 375°F for 10 minutes"
+      ],
+      "garnish": "Sweet chili sauce",
+      "premium": true
+    },
+    {
+      "id": "75",
+      "title": "Air Fryer French Toast",
+      "category": "dessert",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/75.png",
+      "prepTime": 12,
+      "difficulty": "Easy",
+      "calories": "Medium",
+      "servings": 3,
+      "ingredients": [
+        "Bread",
+        "Egg",
+        "Milk",
+        "Cinnamon"
+      ],
+      "steps": [
+        "Dip bread in mixture",
+        "Air fry at 360°F for 8 minutes"
+      ],
+      "garnish": "Maple syrup",
+      "premium": false
+    },
+
+    {
+      "id": "76",
+      "title": "Air Fryer Teriyaki Chicken",
+      "category": "savory",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/76.png",
+      "prepTime": 18,
+      "difficulty": "Easy",
+      "calories": "Medium",
+      "servings": 3,
+      "ingredients": [
+        "Chicken breast",
+        "Teriyaki sauce",
+        "Garlic"
+      ],
+      "steps": [
+        "Marinate chicken",
+        "Air fry at 380°F for 15 minutes"
+      ],
+      "garnish": "Sesame seeds",
+      "premium": false
+    },
+    {
+      "id": "77",
+      "title": "Air Fryer Stuffed Tomatoes",
+      "category": "healthy",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/77.png",
+      "prepTime": 15,
+      "difficulty": "Medium",
+      "calories": "Low",
+      "servings": 3,
+      "ingredients": [
+        "Tomatoes",
+        "Rice",
+        "Cheese",
+        "Herbs"
+      ],
+      "steps": [
+        "Hollow tomatoes",
+        "Fill with mixture",
+        "Air fry at 360°F for 12 minutes"
+      ],
+      "garnish": "Parsley",
+      "premium": true
+    },
+    {
+      "id": "78",
+      "title": "Air Fryer Garlic Potatoes",
+      "category": "healthy",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/78.png",
+      "prepTime": 18,
+      "difficulty": "Easy",
+      "calories": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "Potatoes",
+        "Garlic",
+        "Olive oil",
+        "Salt"
+      ],
+      "steps": [
+        "Cube potatoes",
+        "Season",
+        "Air fry at 400°F for 18 minutes"
+      ],
+      "garnish": "Parsley",
+      "premium": false
+    },
+    {
+      "id": "79",
+      "title": "Air Fryer Fish Fillet",
+      "category": "healthy",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/79.png",
+      "prepTime": 12,
+      "difficulty": "Easy",
+      "calories": "Low",
+      "servings": 2,
+      "ingredients": [
+        "Fish fillet",
+        "Lemon",
+        "Salt",
+        "Pepper"
+      ],
+      "steps": [
+        "Season fish",
+        "Air fry at 370°F for 8 minutes"
+      ],
+      "garnish": "Lemon slices",
+      "premium": false
+    },
+    {
+      "id": "80",
+      "title": "Air Fryer Nutella Bites",
+      "category": "dessert",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/80.png",
+      "prepTime": 10,
+      "difficulty": "Easy",
+      "calories": "High",
+      "servings": 4,
+      "ingredients": [
+        "Bread",
+        "Nutella",
+        "Sugar"
+      ],
+      "steps": [
+        "Fill bread with Nutella",
+        "Air fry at 350°F for 6 minutes"
+      ],
+      "garnish": "Powdered sugar",
+      "premium": true
+    },
+
+    {
+      "id": "81",
+      "title": "Air Fryer Chicken Meatballs",
+      "category": "savory",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/81.png",
+      "prepTime": 15,
+      "difficulty": "Medium",
+      "calories": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "Ground chicken",
+        "Breadcrumbs",
+        "Egg",
+        "Garlic"
+      ],
+      "steps": [
+        "Form meatballs",
+        "Air fry at 375°F for 12 minutes"
+      ],
+      "garnish": "Parsley",
+      "premium": false
+    },
+    {
+      "id": "82",
+      "title": "Air Fryer Cauliflower Bites",
+      "category": "healthy",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/82.png",
+      "prepTime": 15,
+      "difficulty": "Easy",
+      "calories": "Low",
+      "servings": 3,
+      "ingredients": [
+        "Cauliflower",
+        "Spices",
+        "Olive oil"
+      ],
+      "steps": [
+        "Season cauliflower",
+        "Air fry at 375°F for 12 minutes"
+      ],
+      "garnish": "Sauce",
+      "premium": false
+    },
+    {
+      "id": "83",
+      "title": "Air Fryer Ham and Cheese Sandwich",
+      "category": "savory",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/83.png",
+      "prepTime": 8,
+      "difficulty": "Easy",
+      "calories": "Medium",
+      "servings": 2,
+      "ingredients": [
+        "Bread",
+        "Ham",
+        "Cheese",
+        "Butter"
+      ],
+      "steps": [
+        "Assemble sandwich",
+        "Air fry at 360°F for 5 minutes"
+      ],
+      "garnish": "Pickles",
+      "premium": false
+    },
+    {
+      "id": "84",
+      "title": "Air Fryer Berry Crumble",
+      "category": "dessert",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/84.png",
+      "prepTime": 18,
+      "difficulty": "Medium",
+      "calories": "High",
+      "servings": 4,
+      "ingredients": [
+        "Mixed berries",
+        "Oats",
+        "Sugar",
+        "Butter"
+      ],
+      "steps": [
+        "Mix topping",
+        "Cover berries",
+        "Air fry at 350°F for 15 minutes"
+      ],
+      "garnish": "Ice cream",
+      "premium": true
+    },
+    {
+      "id": "85",
+      "title": "Air Fryer Chicken Wings Spicy",
+      "category": "savory",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/85.png",
+      "prepTime": 20,
+      "difficulty": "Medium",
+      "calories": "High",
+      "servings": 4,
+      "ingredients": [
+        "Chicken wings",
+        "Hot sauce",
+        "Salt"
+      ],
+      "steps": [
+        "Season wings",
+        "Air fry at 380°F for 20 minutes",
+        "Toss in sauce"
+      ],
+      "garnish": "Celery sticks",
+      "premium": true
+    },
+
+    {
+      "id": "86",
+      "title": "Air Fryer Mozzarella Balls",
+      "category": "savory",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/86.png",
+      "prepTime": 15,
+      "difficulty": "Medium",
+      "calories": "High",
+      "servings": 4,
+      "ingredients": [
+        "Mozzarella balls",
+        "Egg",
+        "Breadcrumbs"
+      ],
+      "steps": [
+        "Coat cheese",
+        "Freeze briefly",
+        "Air fry at 370°F for 8 minutes"
+      ],
+      "garnish": "Marinara sauce",
+      "premium": true
+    },
+    {
+      "id": "87",
+      "title": "Air Fryer Eggplant Parmesan",
+      "category": "healthy",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/87.png",
+      "prepTime": 20,
+      "difficulty": "Medium",
+      "calories": "Medium",
+      "servings": 3,
+      "ingredients": [
+        "Eggplant",
+        "Tomato sauce",
+        "Cheese"
+      ],
+      "steps": [
+        "Layer eggplant",
+        "Add sauce and cheese",
+        "Air fry at 370°F for 12 minutes"
+      ],
+      "garnish": "Basil",
+      "premium": true
+    },
+    {
+      "id": "88",
+      "title": "Air Fryer Banana Bread",
+      "category": "dessert",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/88.png",
+      "prepTime": 25,
+      "difficulty": "Medium",
+      "calories": "High",
+      "servings": 6,
+      "ingredients": [
+        "Bananas",
+        "Flour",
+        "Sugar",
+        "Eggs"
+      ],
+      "steps": [
+        "Mix batter",
+        "Pour into pan",
+        "Air fry at 330°F for 20 minutes"
+      ],
+      "garnish": "Powdered sugar",
+      "premium": true
+    },
+    {
+      "id": "89",
+      "title": "Air Fryer Chicken Caesar Wrap",
+      "category": "savory",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/89.png",
+      "prepTime": 12,
+      "difficulty": "Easy",
+      "calories": "Medium",
+      "servings": 2,
+      "ingredients": [
+        "Chicken",
+        "Tortilla",
+        "Lettuce",
+        "Caesar dressing"
+      ],
+      "steps": [
+        "Assemble wrap",
+        "Air fry at 350°F for 5 minutes"
+      ],
+      "garnish": "Parmesan",
+      "premium": false
+    },
+    {
+      "id": "90",
+      "title": "Air Fryer Chocolate Donut Holes",
+      "category": "dessert",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/90.png",
+      "prepTime": 12,
+      "difficulty": "Easy",
+      "calories": "High",
+      "servings": 4,
+      "ingredients": [
+        "Dough",
+        "Cocoa powder",
+        "Sugar"
+      ],
+      "steps": [
+        "Shape balls",
+        "Air fry at 350°F for 8 minutes"
+      ],
+      "garnish": "Chocolate glaze",
+      "premium": true
+    },
+
+    {
+      "id": "91",
+      "title": "Air Fryer Stuffed Peppers Vegetarian",
+      "category": "healthy",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/91.png",
+      "prepTime": 20,
+      "difficulty": "Medium",
+      "calories": "Low",
+      "servings": 4,
+      "ingredients": [
+        "Bell peppers",
+        "Rice",
+        "Beans",
+        "Cheese"
+      ],
+      "steps": [
+        "Stuff peppers",
+        "Air fry at 360°F for 15 minutes"
+      ],
+      "garnish": "Herbs",
+      "premium": true
+    },
+    {
+      "id": "92",
+      "title": "Air Fryer Garlic Breadsticks",
+      "category": "savory",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/92.png",
+      "prepTime": 10,
+      "difficulty": "Easy",
+      "calories": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "Dough",
+        "Garlic",
+        "Butter"
+      ],
+      "steps": [
+        "Shape sticks",
+        "Air fry at 350°F for 8 minutes"
+      ],
+      "garnish": "Parsley",
+      "premium": false
+    },
+    {
+      "id": "93",
+      "title": "Air Fryer Salmon Bites",
+      "category": "healthy",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/93.png",
+      "prepTime": 12,
+      "difficulty": "Easy",
+      "calories": "Medium",
+      "servings": 2,
+      "ingredients": [
+        "Salmon",
+        "Soy sauce",
+        "Garlic"
+      ],
+      "steps": [
+        "Cube salmon",
+        "Air fry at 380°F for 8 minutes"
+      ],
+      "garnish": "Sesame seeds",
+      "premium": false
+    },
+    {
+      "id": "94",
+      "title": "Air Fryer Blueberry Muffins",
+      "category": "dessert",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/94.png",
+      "prepTime": 20,
+      "difficulty": "Medium",
+      "calories": "High",
+      "servings": 6,
+      "ingredients": [
+        "Flour",
+        "Blueberries",
+        "Sugar",
+        "Eggs"
+      ],
+      "steps": [
+        "Mix batter",
+        "Add blueberries",
+        "Air fry at 330°F for 15 minutes"
+      ],
+      "garnish": "Powdered sugar",
+      "premium": true
+    },
+    {
+      "id": "95",
+      "title": "Air Fryer Chicken Nuggets Spicy",
+      "category": "savory",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/95.png",
+      "prepTime": 15,
+      "difficulty": "Easy",
+      "calories": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "Chicken",
+        "Breadcrumbs",
+        "Hot sauce"
+      ],
+      "steps": [
+        "Coat chicken",
+        "Air fry at 375°F for 12 minutes"
+      ],
+      "garnish": "Dip",
+      "premium": false
+    },
+    {
+      "id": "96",
+      "title": "Air Fryer Stuffed Croissants",
+      "category": "dessert",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/96.png",
+      "prepTime": 12,
+      "difficulty": "Easy",
+      "calories": "High",
+      "servings": 4,
+      "ingredients": [
+        "Croissant dough",
+        "Chocolate",
+        "Egg wash"
+      ],
+      "steps": [
+        "Fill dough",
+        "Roll",
+        "Air fry at 350°F for 8 minutes"
+      ],
+      "garnish": "Powdered sugar",
+      "premium": true
+    },
+    {
+      "id": "97",
+      "title": "Air Fryer Veggie Burger",
+      "category": "healthy",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/97.png",
+      "prepTime": 18,
+      "difficulty": "Medium",
+      "calories": "Low",
+      "servings": 3,
+      "ingredients": [
+        "Veggie patty",
+        "Buns",
+        "Lettuce"
+      ],
+      "steps": [
+        "Air fry patty at 375°F for 12 minutes",
+        "Assemble burger"
+      ],
+      "garnish": "Tomato",
+      "premium": false
+    },
+    {
+      "id": "98",
+      "title": "Air Fryer Chocolate Brownie Bites",
+      "category": "dessert",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/98.png",
+      "prepTime": 15,
+      "difficulty": "Medium",
+      "calories": "High",
+      "servings": 4,
+      "ingredients": [
+        "Brownie batter",
+        "Chocolate chips"
+      ],
+      "steps": [
+        "Pour into molds",
+        "Air fry at 340°F for 10 minutes"
+      ],
+      "garnish": "Chocolate drizzle",
+      "premium": true
+    },
+    {
+      "id": "99",
+      "title": "Air Fryer Garlic Shrimp Skewers",
+      "category": "healthy",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/99.png",
+      "prepTime": 12,
+      "difficulty": "Easy",
+      "calories": "Low",
+      "servings": 3,
+      "ingredients": [
+        "Shrimp",
+        "Garlic",
+        "Olive oil"
+      ],
+      "steps": [
+        "Skewer shrimp",
+        "Air fry at 380°F for 8 minutes"
+      ],
+      "garnish": "Lemon",
+      "premium": false
+    },
+    {
+      "id": "100",
+      "title": "Air Fryer Apple Pie Rolls",
+      "category": "dessert",
+      "image": "https://raw.githubusercontent.com/appsyplatdev/airfrayerrecipes/main/images/100.png",
+      "prepTime": 18,
+      "difficulty": "Medium",
+      "calories": "High",
+      "servings": 4,
+      "ingredients": [
+        "Puff pastry",
+        "Apple filling",
+        "Cinnamon"
+      ],
+      "steps": [
+        "Fill pastry",
+        "Roll tightly",
+        "Air fry at 360°F for 12 minutes"
+      ],
+      "garnish": "Powdered sugar",
+      "premium": true
     }
   ]
 }
